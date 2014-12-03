@@ -1,0 +1,700 @@
+2014-12-03T02:47:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:17+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:17+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:17+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:35+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:35+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:35+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:47:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:13+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:13+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:13+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:13+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:13+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:14+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:14+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T02:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:23:18+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 270
+2014-12-03T03:23:18+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 271
+2014-12-03T03:23:19+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 154
+2014-12-03T03:23:19+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 155
+2014-12-03T03:23:19+00:00 ERR (3): Notice: Undefined index: config_categoryid  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 156
+2014-12-03T03:23:22+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 270
+2014-12-03T03:23:22+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 271
+2014-12-03T03:23:22+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 154
+2014-12-03T03:23:22+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 155
+2014-12-03T03:23:22+00:00 ERR (3): Notice: Undefined index: config_categoryid  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 156
+2014-12-03T03:23:58+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:24:00+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:24:05+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:24:17+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:24:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:24:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:24:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:25:03+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:25:04+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-03T03:25:30+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 270
+2014-12-03T03:25:30+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 271
+2014-12-03T03:25:31+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 154
+2014-12-03T03:25:31+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 155
+2014-12-03T03:25:31+00:00 ERR (3): Notice: Undefined index: config_categoryid  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 156
+2014-12-03T03:25:33+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 270
+2014-12-03T03:25:33+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 271
+2014-12-03T03:25:33+00:00 ERR (3): Notice: Undefined index: is_ajax  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 154
+2014-12-03T03:25:33+00:00 ERR (3): Notice: Undefined index: tab_cat_id  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 155
+2014-12-03T03:25:33+00:00 ERR (3): Notice: Undefined index: config_categoryid  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Tablisting/Block/List.php on line 156

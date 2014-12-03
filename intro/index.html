@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" id="metaViewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>SM Market - Responsive Magento Theme</title>
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans" media="all" />
+<link rel="shortcut icon" type="image/png" href="favicon.ico"/>
+<style type="text/css">
+	*{margin:0px; padding:0px;}
+	ul{list-style:none;}
+	ul li.last{margin-right:0px;}
+	body{
+		width: 100%;
+		height: 100%;
+		margin: 0;	
+		color:#666666;
+		font-size:12px;
+		font-family: Open Sans,serif !important;
+		background-color:#fff;
+		background-image:url(bg.jpg);
+		background-repeat:no-repeat;
+		background-position:center top;
+		background-attachment:fixed;	}
+	#yt_store-wrap{
+		max-width:1200px; 
+		margin:auto;
+		text-align:center;
+		overflow:hidden;
+		-webkit-box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.4);
+		-moz-box-shadow:    0px 0px 12px 0px rgba(0, 0, 0, 0.4);
+		box-shadow:         0px 0px 12px 0px rgba(0, 0, 0, 0.4);
+		/*background-color:#fff;
+		opacity: 0.9;
+  		filter: alpha(opacity=90);*/
+  		background: url(layout-bg.png) repeat;
+	}
+	.yt-store-header{
+		text-align:center;
+		padding:0px;
+		position:relative;
+	}
+	.yt-store-header .header-top{
+		background-color: #f4a137;
+		height: 6px;
+		width: 100%;
+		text-indent:-999em;
+	}
+	.yt-store-header img{
+		margin-top:46px;
+	}
+
+	.yt-store-header .des1{		
+		color:#444;
+		font-size:24px;
+		padding-top:40px;
+	}
+	.yt-store-header .des1 span{
+		color: #f4a137;
+	}	
+	.yt-store-list{
+		padding: 0px;
+	}
+	.yt-store-list .layout {
+		padding:70px 0 70px 0;
+	}
+	.yt-store-list .layout.theme-color{
+		padding: 10px 0;
+	}
+	.layout .item{
+		margin-right:70px;
+	}
+	.layout:hover .item{
+		opacity: 0.7; filter:alpha(opacity = 70);
+		-moz-transition: all 0.3s ease-in-out 0s;
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.layout .item:hover{
+		opacity: 1; filter:alpha(opacity = 100);
+		-moz-transition: all 0.3s ease-in-out 0s;
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	
+	.img-box a{
+		display: block;
+		/*padding: 5px;*/
+		background-color:#fff;
+		box-shadow:0 0 2px 0 rgba(0, 0, 0, 0.1);
+	}
+	.style-name.green a{		
+		background-color: #3ab54a;
+	}
+	.style-name.blue a{		
+		background-color: #00abf0;
+	}
+	.style-name.tangerine a{		
+		background-color: #e34931;
+	}
+	.style-name.emerald a{		
+		background-color: #009975;
+	}
+	.style-name a {
+		color: #fff;
+		font-weight: bold;
+		text-decoration:none;
+		cursor:text;
+		text-transform: uppercase;
+		background-color: #444;
+		font-size: 12px;
+		padding: 10px 20px;
+	}
+	.layout-grid .img-box1{
+		margin-bottom: 25px;
+	}	
+	.layout-grid .item{
+		display:inline-block; 
+		vertical-align: top;
+	}				
+	.theme-color{
+		
+	}
+	.title-theme-color {
+		text-align:center;
+		width: 80%;
+		margin: auto;
+		margin-bottom: 60px;
+		position: relative;
+	}
+	.title-theme-color:before {
+		content: "";
+		width: 37%;
+		height: 1px;
+		background-color: #ddd;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+	.title-theme-color:after {
+		content: "";
+		width: 36%;
+		height: 1px;
+		background-color: #ddd;
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+	.title-theme-color span{
+		text-transform:uppercase;
+		font-size:26px;
+		color: #444;
+		position: absolute;
+		top: -20px;
+		left: 38%;
+		padding: 0 20px;
+	}
+	.yt-store-footer{
+		text-align:center;
+		padding-bottom:90px;
+		padding-top:90px;
+		border-bottom: 6px solid #444;
+	}
+	.buy-btn.button1{
+		margin-top:30px;
+	}
+	.buy-btn a:hover{
+		background:url(btn-buy-h.png) no-repeat;
+	}
+	.buy-btn a{
+		background:url(btn-buy.png) no-repeat;
+		margin:auto;
+		display:block;
+		width: 260px;
+		font-size: 16px;
+		text-transform: uppercase;
+		text-decoration: none;
+		color: #fff;
+		line-height: 50px;
+		height: 53px;
+	}
+
+	/*.buy-btn a{
+		background: none repeat scroll 0 0 #F7F7F7;
+		border: 1px solid #ececec;
+		box-shadow: 2px 2px 1px rgba(1, 1, 1, 0.2);
+		color: #666666;
+		display: inline-block;
+		font-weight: 400;
+		padding: 15px 35px;
+		text-decoration: none;
+		text-transform: uppercase;
+		-moz-transition: all 0.2s ease-in-out 0s; 
+		-webkit-transition: all 0.2s ease-in-out 0s;
+		-o-transition: all 0.2s ease-in-out 0s;
+		-ms-transition: all 0.2s ease-in-out 0s;
+		transition: all 0.2s ease-in-out 0s;	
+		margin-top:25px;	
+	}
+	.buy-btn a:hover{
+		-moz-transition: all 0.2s ease-in-out 0s; 
+		-webkit-transition: all 0.2s ease-in-out 0s;
+		-o-transition: all 0.2s ease-in-out 0s;
+		-ms-transition: all 0.2s ease-in-out 0s;
+		transition: all 0.2s ease-in-out 0s;
+		border-color:#414141;
+		background-color:#414141;
+		color:#fff;
+	}*/
+	.layout-grid .item{
+		-moz-transition: all 0.3s ease-in-out 0s; 
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.layout-grid .item.row2{
+		margin-top: 80px;
+	}
+	.layout-grid .item .img-box a{
+		position:relative;
+		overflow:hidden;
+	}
+	.layout-grid .item .img-box a:before{
+		position:absolute;
+		content:"";
+		width:0;
+		top: 50%;
+		left:50%;
+		background:rgba(0,0,0,0.3);
+		-moz-transition: all 0.3s ease-in-out 0s; 
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.layout-grid .item .img-box a:hover:before{
+		width:100%;
+		height:100%;
+		top:0;
+		left:0;
+		-moz-transition: all 0.3s ease-in-out 0s; 
+		-webkit-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;
+		-ms-transition: all 0.3s ease-in-out 0s;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	
+	.layout .layout-grid .item img{
+			width:100%;
+		}
+	@media (max-width: 767px) {
+		.yt-store-header{
+			padding:15px 0px;
+		}
+		.layout-grid {
+			text-align: center;
+		}
+		.layout-grid .item{
+			margin-right:15px;
+			margin-left:15px;
+		}
+		.detail-box{
+			padding-left:0px;
+		}
+		.layout .layout-grid .item.last{
+			margin-top:20px;
+		}
+		.title-theme-color:before,
+		.title-theme-color:after{
+			width: 0;
+			height: 0;
+		}
+		.title-theme-color span{
+			position: static;
+		}
+	}
+	
+	
+	@media (min-width: 768px) and (max-width: 991px) {
+		#yt_store-wrap{
+			max-width:720px; 
+		}
+		.layout-grid .item {
+			margin-right: 30px;
+			width: 343px;
+		}
+		.layout-grid .item.odd{
+			margin-right:0px;
+		}
+		.title-theme-color:before,
+		.title-theme-color:after{
+			width: 0;
+			height: 0;
+		}
+		.title-theme-color span{
+			position: static;
+		}
+		
+	}
+	@media (min-width: 992px) and (max-width: 1199px) {
+	  	#yt_store-wrap{
+			max-width:960px; 
+			margin:0 auto;
+		}
+		.layout .layout-grid .item {
+			margin-right: 30px;
+			width: 450px;
+		}
+		.theme-color .layout-grid .item {
+			margin-right: 30px;
+			width: 343px;
+		}
+		.layout-grid .item.last{
+			margin-right:0px;
+		}
+		.title-theme-color span{
+			left: 35%;
+		}
+	}
+	@media (min-width: 1200px) {
+		.layout-grid li.last{
+			margin-right:0px;
+		}
+  		
+	}
+</style>
+</head>
+<body>
+	<div id="yt_store-wrap" class="yt-store-wrap container">
+		<div class="yt-store-header">
+        <div class="header-top">header top</div>
+			<img src="logo.png" alt="SM market - Responsive Magento Theme" />
+			<p class="des1">SM Market - Premium Responsive <span>Magento Theme</a></p>
+			<div class="buy-btn button1">
+                <a target="_blank" href="#" title="Buy this magento theme!">Buy this magento theme</a>
+            </div>
+		</div>
+		
+		<div class="yt-store-list">
+  			<div class="layout">
+				<ul class="layout-grid">
+					<li class="item">
+						<div class="img-box1">
+							<a target="_blank" title="Full Width" href="http://demo.magentech.com/themes/sm_market/index.php/?___store=english&___from_store=australia">
+								<img src="full-width.png" alt="Full Width" />
+							</a>
+						</div>
+						<div class="detail-box">                     
+                            <h2 class="style-name">
+                                <a href="#" title="Demo 1">Home page: Default</a>
+                            </h2>
+                                                                                                         
+						</div>
+					</li>
+					
+					<li class="item odd last">
+						<div class="img-box1">
+							<a target="_blank" title="Boxed Width" href="http://demo.magentech.com/themes/sm_market/index.php/?___store=french&___from_store=english/">
+								<img src="boxed.png" alt="Boxed Width" />
+							</a>
+						</div>
+						<div class="detail-box">                        	
+                            <h2 class="style-name">
+                                <a href="#" title="Demo 1">Home page: Boxed</a>
+                            </h2>
+                                                     
+						</div>
+					</li>
+				</ul>
+			</div>
+			
+			<div class="layout theme-color">
+				<div class="title-theme-color"><span>Theme Colors</span></div>
+				<ul class="layout-grid">
+					<li class="item">
+						<div class="img-box1">
+							<a target="_blank" title="Color Blue" href="http://demo.magentech.com/themes/sm_market/index.php/?___store=australia&___from_store=english/">
+								<img src="blue.png" alt="blue" />
+							</a>
+						</div>
+						<div class="detail-box">                     
+                            <h2 class="style-name blue">
+                                <a href="#" title="Demo 1">Color: Blue</a>
+                            </h2>                                                                                                       
+						</div>
+					</li>
+					
+					<li class="item odd last">
+						<div class="img-box1">
+							<a target="_blank" title="Color Tangerine" href="http://demo.magentech.com/themes/sm_market/index.php/?___store=german&___from_store=english/">
+								<img src="tangerine.png" alt="tangerine" />
+							</a>
+						</div>
+						<div class="detail-box">                        	
+                            <h2 class="style-name tangerine">
+                                <a href="#" title="Demo 1">Color: Tangerine</a>
+                            </h2>
+                                                        
+						</div>
+					</li>
+					<li class="item row2">
+						<div class="img-box1">
+							<a target="_blank" title="Color Emerald" href="http://demo.magentech.com/themes/sm_market/index.php/?___store=italia&___from_store=english/">
+								<img src="emerald.png" alt="emerald" />
+							</a>
+						</div>
+						<div class="detail-box">                     
+                            <h2 class="style-name emerald">
+                                <a href="#" title="Demo 1">Color: Emerald</a>
+                            </h2>                                                                                                       
+						</div>
+					</li>
+					
+					<li class="item row2 odd last">
+						<div class="img-box1">
+							<a target="_blank" title="Color Green" href="http://demo.magentech.com/themes/sm_market/index.php/?___store=canada&___from_store=english/">
+								<img src="green.png" alt="green" />
+							</a>
+						</div>
+						<div class="detail-box">                        	
+                            <h2 class="style-name green">
+                                <a href="#" title="Demo 1">Color: Green</a>
+                            </h2>
+                                                        
+						</div>
+					</li>
+				</ul>
+			</div>
+            <div class="yt-store-footer">
+            <div class="buy-btn button">
+                <a target="_blank" href="#" title="Buy this magento theme!">Buy this magento theme</a>
+            </div>
+       	</div>
+		</div>
+		
+	</div>
+</body>
+</html>
