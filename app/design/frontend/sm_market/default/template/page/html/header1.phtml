@@ -46,11 +46,11 @@ global $var_yttheme;
 <div class="yt-header-middle">
 	<div class="container">
         <div class="row">
-        <div class="logo col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="logo col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" />
             </a>
         </div>
-        <div class="header-middle-right col-lg-9 col-md-9 col-sm-12 col-xs-12">
+        <div class="header-middle-right col-lg-8 col-md-8 col-sm-12 col-xs-12">
             <?php if ($this->getChildHtml('searchbox')) { ?>
                 <div class="head-searchbox">
                     <?php echo $this->getChildHtml('searchbox') ?>
@@ -109,14 +109,14 @@ if( Mage::getSingleton('cms/page')->getIdentifier() == 'home'  &&
             </div>            
             <?php } ?>
             
-            <?php if($this->getLayout()->createBlock('cms/block')->setBlockId('banner-header-right')->toHtml()) { ?>
+            <?php if($this->getLayout()->createBlock('cms/block')->setBlockId('block-policy-v3')->toHtml()) { ?>
             <!-- <div class="banner-home-right-wrap"> -->
-                <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('banner-header-right')->toHtml(); ?>
+                <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('block-policy-v3')->toHtml(); ?>
             <!-- </div> -->
             <?php } ?>
-            <?php if($this->getLayout()->createBlock('cms/block')->setBlockId('block-policy')->toHtml()) { ?>
+          <!--  <?php if($this->getLayout()->createBlock('cms/block')->setBlockId('block-policy')->toHtml()) { ?>
          
-                <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('block-policy')->toHtml(); ?>
+                <!--<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('block-policy')->toHtml(); ?>-->
         
             <?php } ?>
         </div>
@@ -145,12 +145,16 @@ else {
                 echo $this->getChildHtml('topMenu');
             } ?>
             </div>
-        </div>        
+        </div> 
+             
     </div>  
 </div>
 </div>
 </div>        
 <?php } ?>
+
+
+<!--
 <script type="text/javascript">
 	jQuery(document).ready(function($){
         //menu more cate
@@ -204,8 +208,7 @@ else {
         });
 	})
 </script>
-
-
+-->
 
 
 

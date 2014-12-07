@@ -1933,7 +1933,7 @@ label.required em {
 	background-repeat: no-repeat;
 	display: inline-block;
 	border: 1px solid #ddd;
-	margin-left: 5px;
+	margin-left: -1px;
 	float: left;
 }
 .yt-product-detail .add-to-links li a.link-wishlist{
@@ -2047,7 +2047,7 @@ label.required em {
 .products-grid .item .product-name{
 	margin-top:5px;
 	margin-bottom:7px;
-	line-height:100%;
+	line-height:120%;
 }
 .products-grid .item .product-addto-wrap{
 	margin-top:16px;
@@ -2055,7 +2055,7 @@ label.required em {
 .products-grid .item .item-inner .product-info{
 	float: left;
 	width: 100%;
-	padding: 0 20px 20px 20px;
+	padding: 0 5px 5px 5px;
 }
 
 /*--------------------------------listing content list-------------------------------*/
@@ -4316,21 +4316,22 @@ input.input-text.qty{
 	height: 100%;
 }
 
-.header2-wrap .block-newsletter{
+.block-newsletter{
 	background: url("../images/newsletter-bg.jpg") no-repeat;
 	color: #fff;
-	padding: 38px 20px;
+	padding: 38px 3px;
 	float: left;
 	background-size: 100% 100%;
+	margin:20px 0px;
 }
-.header2-wrap .block-newsletter .block-title{
+.block-newsletter .block-title{
 	font-size: 216.6%;
 	font-weight: bold;
 	text-transform: uppercase;
 	line-height: 100%;
 	margin-bottom: 18px;
 }
-.header2-wrap .block-newsletter #newsletter-validate-detail .input-box{
+.block-newsletter #newsletter-validate-detail .input-box{
 	height: 40px;
 	line-height: 40px;
 	position: relative;
@@ -4338,7 +4339,7 @@ input.input-text.qty{
 	width: 229px;
 	margin-top: 25px;
 }
-.header2-wrap .block-newsletter #newsletter-validate-detail .input-box button{
+.block-newsletter #newsletter-validate-detail .input-box button{
 	width: 49px;
 	height: 40px;
 	background: url("../images/newsletter-btn.png") no-repeat center center;
@@ -4347,12 +4348,12 @@ input.input-text.qty{
 	top: 0;
 	text-indent: -999em;
 }
-.header2-wrap .block-newsletter #newsletter-validate-detail .input-box #newsletter{
+.block-newsletter #newsletter-validate-detail .input-box #newsletter{
 	height: 40px;
 	border: none;
 	width: 180px;
 }
-.header2-wrap .block-newsletter .block-content p{
+.block-newsletter .block-content p{
 	line-height: 140%;
 }
 /*---home page v 2 ---*/
@@ -4514,6 +4515,81 @@ input.input-text.qty{
 	width: 100%;
 	margin-top: 30px;
 }
+
+.block-policy-custom{
+	float: right;
+	margin-top: 0px;
+}
+
+.block-policy-custom .policy .policy-inner{
+	border: 3px solid #ddd;
+	padding: 27px 10px;
+	height: 90px;
+}
+
+.block-policy-custom .policy {
+	margin-top:15px;
+}
+.block-policy-custom .policy a{
+	color: #999;
+}
+.block-policy-custom .policy h2{
+	font-size: 116.6%;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #444;
+}
+.block-policy-custom .policy span{
+	float: left;
+	text-indent: -999em;
+	margin-right: 10px;
+	background-repeat: no-repeat;
+}
+.block-policy-custom .policy1 span{
+	background-image: url(../images/ico-money.png);
+	width: 27px;
+	height: 36px;
+}
+.block-policy-custom .policy2 span{
+	background-image: url(../images/ico-freeship.png);
+	width: 53px;
+	height: 32px;
+}
+.block-policy-custom .policy3 span{
+	background-image: url(../images/ico-celander.png);
+	width: 33px;
+	height: 34px;
+}
+.block-policy-custom .policy4 span{
+	background-image: url(../images/ico-umbrella.png);
+	width: 34px;
+	height: 34px;
+}
+/*
+.policy-detail .banner-policy{
+	box-shadow: none;
+	margin-top: 0;
+}
+.policy-detail .banner-policy .policy{
+	width: 100%;
+	border-right: none;
+	border-bottom: 1px solid #fff;
+}*/
+
+.block-policy-custom .policy1{
+	padding: 0px;
+}
+.block-policy-custom .policy2{
+	padding: 0px;
+}
+.block-policy-custom .policy3{
+	padding: 0px;
+}
+.block-policy-custom .policy4{
+	padding: 0px;
+}
+
+
 /*.block-policy-v3 .policy1{
 	padding-left: 0px;
 }

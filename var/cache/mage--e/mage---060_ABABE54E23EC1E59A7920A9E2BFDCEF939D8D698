@@ -1,0 +1,269 @@
+	<button type="button" class="btn btn-navbar"><i class="icon-th-list"></i>
+    </button>
+    <div id="yt_resmenu_sidebar">
+	    <ul class="nav-menu clearfix">
+	    <li class="nav-home active">
+	        <a class="nav-home active" href="http://127.0.0.1:8888/cincorama/?___SID=U" title="Home"><span>Home</span></a>
+	    </li>
+	    	        <li class="level0 nav-1 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/electronics?___SID=U">
+<span>Electronics</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://127.0.0.1:8888/cincorama/electronics/batteries-chargers?___SID=U">
+<span>Batteries &amp; Chargers</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="http://127.0.0.1:8888/cincorama/electronics/headphone-headset?___SID=U">
+<span>Headphone, Headset</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="http://127.0.0.1:8888/cincorama/electronics/home-audio?___SID=U">
+<span>Home Audio</span>
+</a>
+</li><li class="level1 nav-1-4 last">
+<a href="http://127.0.0.1:8888/cincorama/electronics/mp3-player-accessories?___SID=U">
+<span>Mp3 Player Accessories</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/automobile-motorcycle?___SID=U">
+<span>Automobile &amp; Motorcycle</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://127.0.0.1:8888/cincorama/automobile-motorcycle/more-car-accessories?___SID=U">
+<span>More Car Accessories</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="http://127.0.0.1:8888/cincorama/automobile-motorcycle/cars-alarmsandsecurity?___SID=U">
+<span>Cars Alarms and Security</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="http://127.0.0.1:8888/cincorama/automobile-motorcycle/cars-audio-speker?___SID=U">
+<span>Car Audio &amp; Speakers</span>
+</a>
+</li><li class="level1 nav-2-4 last">
+<a href="http://127.0.0.1:8888/cincorama/automobile-motorcycle/gadget-autoparts?___SID=U">
+<span>Gadget &amp; Auto Parts</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-3">
+<a href="http://127.0.0.1:8888/cincorama/bags-shoes-accessories?___SID=U">
+<span>Bags, Shoes &amp; Accessories</span>
+</a>
+</li>	    	        <li class="level0 nav-4 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors?___SID=U">
+<span>Sport &amp; Outdoors</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/golf-suplies?___SID=U">
+<span>Golf Supplies</span>
+</a>
+</li><li class="level1 nav-4-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/outdoor-traveling-supplies?___SID=U">
+<span>Outdoor &amp; Traveling Supplies</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-2-1 first">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/outdoor-traveling-supplies/sub-category-1?___SID=U">
+<span>sub category 1</span>
+</a>
+</li><li class="level2 nav-4-2-2">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/outdoor-traveling-supplies/sub-category-2?___SID=U">
+<span>sub category 2</span>
+</a>
+</li><li class="level2 nav-4-2-3 last">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/outdoor-traveling-supplies/sub-category-3?___SID=U">
+<span>sub category 3</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-4-3">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/camping-hiking?___SID=U">
+<span>Camping &amp; Hiking</span>
+</a>
+</li><li class="level1 nav-4-4 last">
+<a href="http://127.0.0.1:8888/cincorama/sport-outdoors/fishing?___SID=U">
+<span>Fishing</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-5 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets?___SID=U">
+<span>Smartphone &amp; Tablets</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/accessories-for-iphone?___SID=U">
+<span>Accessories for iPhone</span>
+</a>
+</li><li class="level1 nav-5-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/accessories-for-ipad?___SID=U">
+<span>Accessories for iPad</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-2-1 first">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/accessories-for-ipad/sub-category-1?___SID=U">
+<span>sub category 1</span>
+</a>
+</li><li class="level2 nav-5-2-2">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/accessories-for-ipad/sub-category-2?___SID=U">
+<span>sub category 2</span>
+</a>
+</li><li class="level2 nav-5-2-3 last">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/accessories-for-ipad/sub-category-3?___SID=U">
+<span>sub category 3</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-5-3">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/accessories-for-tablet-pc?___SID=U">
+<span>Accessories for Tablet PC</span>
+</a>
+</li><li class="level1 nav-5-4 last">
+<a href="http://127.0.0.1:8888/cincorama/smartphone-tablets/tablet-pc?___SID=U">
+<span>Tablet PC</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-6 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/health-beauty?___SID=U">
+<span>Health &amp; Beauty</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-6-1 first">
+<a href="http://127.0.0.1:8888/cincorama/health-beauty/bath-body?___SID=U">
+<span>Bath &amp; Body</span>
+</a>
+</li><li class="level1 nav-6-2">
+<a href="http://127.0.0.1:8888/cincorama/health-beauty/shaving-hair-removal?___SID=U">
+<span>Shaving &amp; Hair Removal</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="http://127.0.0.1:8888/cincorama/health-beauty/fragrances?___SID=U">
+<span>Fragrances</span>
+</a>
+</li><li class="level1 nav-6-4 last">
+<a href="http://127.0.0.1:8888/cincorama/health-beauty/salon-spa-equipment?___SID=U">
+<span>Salon &amp; Spa Equipment</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-7 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/toys-hobbies?___SID=U">
+<span>Toys &amp; Hobbies</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-7-1 first">
+<a href="http://127.0.0.1:8888/cincorama/toys-hobbies/walkera?___SID=U">
+<span>Walkera</span>
+</a>
+</li><li class="level1 nav-7-2">
+<a href="http://127.0.0.1:8888/cincorama/toys-hobbies/fpv-system-parts?___SID=U">
+<span>Fpv System &amp; Parts</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="http://127.0.0.1:8888/cincorama/toys-hobbies/rc-cars-parts?___SID=U">
+<span>RC Cars &amp; Parts</span>
+</a>
+</li><li class="level1 nav-7-4 last">
+<a href="http://127.0.0.1:8888/cincorama/toys-hobbies/helicopters-part?___SID=U">
+<span>Helicopters &amp; Part</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-8">
+<a href="http://127.0.0.1:8888/cincorama/computers-networking?___SID=U">
+<span>Computers &amp; Networking</span>
+</a>
+</li>	    	        <li class="level0 nav-9">
+<a href="http://127.0.0.1:8888/cincorama/laptops-accesories?___SID=U">
+<span>Laptops &amp; Accesories</span>
+</a>
+</li>	    	        <li class="level0 nav-10 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/jewelry-watches?___SID=U">
+<span>Jewelry &amp; Watches</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-10-1 first">
+<a href="http://127.0.0.1:8888/cincorama/jewelry-watches/men-watches?___SID=U">
+<span>Men Watches</span>
+</a>
+</li><li class="level1 nav-10-2">
+<a href="http://127.0.0.1:8888/cincorama/jewelry-watches/wedding-rings?___SID=U">
+<span>Wedding Rings</span>
+</a>
+</li><li class="level1 nav-10-3">
+<a href="http://127.0.0.1:8888/cincorama/jewelry-watches/earring?___SID=U">
+<span>Earring</span>
+</a>
+</li><li class="level1 nav-10-4 last">
+<a href="http://127.0.0.1:8888/cincorama/jewelry-watches/necklaces?___SID=U">
+<span>Necklaces</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-11">
+<a href="http://127.0.0.1:8888/cincorama/flashlights-lamps?___SID=U">
+<span>Flashlights &amp; Lamps</span>
+</a>
+</li>	    	        <li class="level0 nav-12">
+<a href="http://127.0.0.1:8888/cincorama/cameras-photo?___SID=U">
+<span>Cameras &amp; Photo</span>
+</a>
+</li>	    	        <li class="level0 nav-13 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://127.0.0.1:8888/cincorama/holiday-suplies-gifts?___SID=U">
+<span>Holiday Suplies &amp; Gifts</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-13-1 first">
+<a href="http://127.0.0.1:8888/cincorama/holiday-suplies-gifts/gift-lifestyle-gadgets?___SID=U">
+<span>Gift &amp; Lifestyle Gadgets </span>
+</a>
+</li><li class="level1 nav-13-2">
+<a href="http://127.0.0.1:8888/cincorama/holiday-suplies-gifts/gift-for-man?___SID=U">
+<span>GIft for Man</span>
+</a>
+</li><li class="level1 nav-13-3">
+<a href="http://127.0.0.1:8888/cincorama/holiday-suplies-gifts/gift-for-woman?___SID=U">
+<span>Gift for Woman</span>
+</a>
+</li><li class="level1 nav-13-4 last">
+<a href="http://127.0.0.1:8888/cincorama/holiday-suplies-gifts/lighter-clgar-supplies?___SID=U">
+<span>Lighter &amp; Clgar Supplies</span>
+</a>
+</li>
+</ul>
+</li>	    	        <li class="level0 nav-14">
+<a href="http://127.0.0.1:8888/cincorama/apparel?___SID=U">
+<span>Apparel</span>
+</a>
+</li>	    	        <li class="level0 nav-15">
+<a href="http://127.0.0.1:8888/cincorama/video-games?___SID=U">
+<span>Video Games</span>
+</a>
+</li>	    	        <li class="level0 nav-16">
+<a href="http://127.0.0.1:8888/cincorama/product-types?___SID=U">
+<span>Product Types</span>
+</a>
+</li>	    	    </ul>
+	    <script type="text/javascript">
+	        jQuery(document).ready(function($){
+	            $('body#bd').append('<div class="yt_ressidebar_screennav"><nav id="yt_screennav"><ul class="siderbar-menu"></ul></nav></div>');
+	            $('#yt_screennav ul.siderbar-menu').html($('#yt_resmenu_sidebar ul.nav-menu').html());
+
+	                $('#yt-responsivemenu .btn.btn-navbar').click(function(){
+	                    if($('body#bd').hasClass('onpen-sidebar')){
+	                        $('body#bd').removeClass('onpen-sidebar');
+	                    }else{
+	                        $('body#bd').addClass('onpen-sidebar');
+	                    }
+	                });
+	        });
+	    </script>
+	</div>

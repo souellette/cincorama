@@ -85,7 +85,7 @@ if (!empty($list)) {
 									   title="<?php echo $_product->category_title; ?>"
 										<?php echo $helper->parseTarget($this->_getConfig('product_links_target'));?>
 										>
-										<?php echo 'Category:&nbsp'.$helper->truncate($_product->category_title, $this->_getConfig('category_title_max_characs', 25)); ?>
+										<?php echo 'Category:&nbsp'.$helper->truncate($_product->category_title, $this->_getConfig('category_title_max_characs', 200)); ?>
 									</a>
 								</div>
 							<?php } ?>
