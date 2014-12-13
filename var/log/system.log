@@ -3853,3 +3853,648 @@
 [5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
 [6] /Applications/MAMP/htdocs/cincorama/index.php:87
 </pre>
+2014-12-13T17:29:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T17:50:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T17:50:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T17:50:40+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:02:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:02:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:03:28+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:03:32+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:03:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:04:40+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:04:41+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:08:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:08:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T18:12:26+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:12:27+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:15:37+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T18:18:36+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:18:48+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:30+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:19:59+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T18:20:09+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T20:22:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T20:22:10+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 44: parser error : Opening and ending tag mismatch: reference line 28 and block  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): pe=&quot;tag/popular&quot; name=&quot;tags_popular_home&quot; template=&quot;tag/popular.phtml&quot;/&gt; &lt;/block  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct():                                                                                ^  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 46: parser error : Opening and ending tag mismatch: config line 1 and reference  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): &lt;/reference&gt;&lt;/config&gt;  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct():             ^  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): Entity: line 46: parser error : Extra content at the end of the document  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct(): &lt;/reference&gt;&lt;/config&gt;  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T20:48:27+00:00 ERR (3): Warning: SimpleXMLElement::__construct():             ^  in /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Adminhtml/Model/LayoutUpdate/Validator.php on line 102
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:01:43+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:13:54+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:17:31+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:19:44+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:20:07+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:22:14+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:22:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:30:43+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/cincorama/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Applications/MAMP/htdocs/cincorama/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/cincorama/app/Mage.php:684
+[6] /Applications/MAMP/htdocs/cincorama/index.php:87
+</pre>
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:21+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:31:37+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: visible  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 23
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: required  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 24
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: type  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 25
+2014-12-13T21:32:44+00:00 ERR (3): Notice: Undefined index: values  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/Adminhtml/Widget/AddField.php on line 27
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:33:34+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
+2014-12-13T21:34:27+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in /Applications/MAMP/htdocs/cincorama/app/code/local/Sm/Megamenu/Block/List.php on line 250
