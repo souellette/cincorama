@@ -1032,6 +1032,7 @@ label.required em {
 }
 #yt_footer .footer-top{
 	background-color:#ddd;
+	padding:10px 0 20px 0;
 }
 #yt_footer .footer-bottom{
 	background-color: #444;
@@ -1599,7 +1600,7 @@ label.required em {
 	width: 100%;
 	border:1px solid #ddd;
 	padding:20px;
-	margin-bottom:30px;
+	margin-bottom:20px;
 	margin-top: 20px;
 }
 /*-------tags-------*/
@@ -4316,10 +4317,18 @@ input.input-text.qty{
 	height: 100%;
 }
 
-.block-newsletter{
-	background: url("../images/newsletter-bg.jpg") no-repeat;
+.block-facebook{
+	width:275px;
 	color: #fff;
 	padding: 38px 3px;
+	margin:20px 0px;
+}
+
+.block-newsletter{
+	border:1px solid #ddd;
+	background: url("../images/newsletter-bg.jpg") no-repeat;
+	color: #fff;
+	padding: 8px 3px;
 	float: left;
 	background-size: 100% 100%;
 	margin:20px 0px;
@@ -5006,6 +5015,7 @@ input.input-text.qty{
 	padding: 15px 0px 30px 0px;
 	border: 1px solid #ddd;
 }
+
 .sm-deal-wrap .product-timer-wrap {
 	background-color: #e74c3c;
 	position: relative;

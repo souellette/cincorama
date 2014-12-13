@@ -162,7 +162,9 @@ Default layout, loads most of the pages
             <block type="core/text_list" name="hot-categories" as="hot-categories" translate="label">
                 <label>Hot categories</label>
             </block>    		   
-      		<block type="core/text_list" name="megamenu-vertical-home" as="megamenu-vertical-home" />		
+      		<block type="core/text_list" name="megamenu-vertical-home" as="megamenu-vertical-home" />	
+
+            <block type="core/text_list" name="deal" as="deal" />
             <block type="core/text_list" name="content" as="content" translate="label">
                 <label>Main Content Area</label>
             </block>
@@ -186,7 +188,10 @@ Default layout, loads most of the pages
             <block type="core/text_list" name="before_body_end" as="before_body_end"/>
         </block>	
         
-		
+		<reference name="deal">
+            <block type="deal/list" name="deal2" as="deal2" template="sm/deal/default.phtml"> 
+            </block>
+        </reference>
 		<!-- mega menu-->
         <reference name="megamenu-horizontal">
             <block type="megamenu/list" name="megamenu.list.theme.top" as="megaMenuTop" template="sm/megamenu/megamenu2.phtml">       
