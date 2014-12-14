@@ -1572,7 +1572,7 @@ label.required em {
 
 #yt_left .block-title,
 #yt_right .block-title{
-	border-bottom: 1px solid #ddd;
+	/*border-bottom: 1px solid #ddd;*/
 	line-height: 100%;
 }
 #yt_left .block-title span,
@@ -4325,9 +4325,10 @@ input.input-text.qty{
 }
 
 .block-newsletter{
-	border:1px solid #ddd;
+	/*border:1px solid #ddd;
 	background: url("../images/newsletter-bg.jpg") no-repeat;
-	color: #fff;
+	color: #fff;*/
+	color:#444444;
 	padding: 8px 3px;
 	float: left;
 	background-size: 100% 100%;
@@ -4338,19 +4339,20 @@ input.input-text.qty{
 	font-weight: bold;
 	text-transform: uppercase;
 	line-height: 100%;
-	margin-bottom: 18px;
 }
 .block-newsletter #newsletter-validate-detail .input-box{
 	height: 40px;
 	line-height: 40px;
+	background-color: #e74c3c;
 	position: relative;
 	float: left;
 	width: 229px;
-	margin-top: 25px;
+	margin-top: 15px;
 }
 .block-newsletter #newsletter-validate-detail .input-box button{
 	width: 49px;
 	height: 40px;
+
 	background: url("../images/newsletter-btn.png") no-repeat center center;
 	position: absolute;
 	right: 0;
@@ -4359,7 +4361,7 @@ input.input-text.qty{
 }
 .block-newsletter #newsletter-validate-detail .input-box #newsletter{
 	height: 40px;
-	border: none;
+	border:1px solid #ddd;
 	width: 180px;
 }
 .block-newsletter .block-content p{
